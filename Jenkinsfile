@@ -7,7 +7,7 @@ pipeline {
 	jdk "OracleJDK8"
     }
     
- /*
+ */
 
     environment {
         registry = "kasaragadda99599/proapp"
